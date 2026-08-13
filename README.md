@@ -41,3 +41,56 @@ Estudante de Administração (5º semestre, Anhanguera), com atuação na área 
   <img src="https://img.shields.io/badge/JavaScript-16.4%25-f1e05a?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-10.3%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+---
+
+---
+
+### 💼 Experiência Profissional
+
+#### 🏢 **Gertec** — Assistente Administrativo (Estágio)
+<sub>*jun de 2026 – Presente • Ilhéus, Bahia, Brasil*</sub>
+
+* **Automação de Processos:** Desenvolvimento de automações de rotina utilizando **Microsoft Power Automate** para otimização de fluxos e ganho de eficiência.
+* **Rotinas Fiscais & Financeiras:** Lançamento de títulos financeiros e emissão de Cartas de Correção Eletrônica (CCE) para ajustes de frete e notas fiscais.
+* **Conformidade Fiscal:** Lançamentos de impostos federais via **e-CAC** e **E115**.
+* **Análise de Dados & Processos:** Construção de tabelas dinâmicas para mensuração de retrabalhos operacionais (acompanhamento mensal de ajustes em centros de custo).
+* **Contabilidade:** Execução de ajustes de centro de custo garantindo a correta alocação contábil.
+
+`Power Automate` `Power BI` `Microsoft Excel` `e-CAC` `Análise de Processos` `Python`
+
+---
+
+#### 🏢 **GéRun** — Assistente Administrativo (Estágio)
+<sub>*fev de 2025 – jun de 2026 (1 ano 5 meses) • Ilhéus, Bahia, Brasil*</sub>
+
+* **ERP & Cadastros:** Gestão e atualização da base de dados de clientes, vendedores e parceiros no **TOTVS Protheus**.
+* **Gestão de Contratos:** Criação, acompanhamento e fluxo de assinaturas até a conclusão via sistema **Lexio**.
+* **Relatórios & Serviços:** Produção de relatórios analíticos de ordens de serviço via **Workfinity**.
+* **Controle Operacional:** Manutenção diária de planilhas de suporte e acompanhamento de metas.
+
+`TOTVS Protheus` `Workfinity` `Lexio` `Microsoft Excel` `Gestão de Cadastros`
+
+---
+
+#### 🏢 **Prefeitura Municipal de Ilhéus** — Assistente Administrativo (Estágio)
+<sub>*mar de 2023 – ago de 2023 (6 meses) • Ilhéus, Bahia, Brasil*</sub>
+
+* **Contratos Públicos:** Organização, manutenção e acompanhamento de documentação de contratos do setor público.
+* **Gestão de Custos:** Acompanhamento e controle direto das despesas operacionais do setor.
+* **Gestão Documental:** Aplicação de padrões formais de arquivologia para organização física e digital de documentos.
+
+`Contratos Públicos` `Gestão de Custos` `Arquivologia` `Microsoft Excel`
+
+---
+
+#### 🏢 **Kemigas** — Assistente Administrativo (Aprendiz / Meio Período)
+<sub>*mar de 2022 – jun de 2023 (1 ano 4 meses) • Ilhéus, Bahia, Brasil*</sub>
+
+* **Conciliação Financeira:** Realização de conciliações bancárias, conferência e estornos de lançamentos de cartão de crédito.
+* **Suporte ao RH & Operacional:** Recolhimento de documentações de colaboradores e suporte administrativo.
+* **Digitalização & Organização:** Padronização e digitalização do acervo de documentos da empresa e elaboração de relatórios via Excel e Word.
+
+`Conciliação Bancária` `Financeiro` `Microsoft Excel` `Microsoft Word`
+
+---
