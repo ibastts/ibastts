@@ -4,7 +4,7 @@
 
 **Assistente Administrativo**
 
-Estudante de Administração (5º semestre, Anhanguera), com atuação na área administrativa em rotinas de departamento pessoal, atendimento e suporte operacional. Tenho perfil organizado e atento a processos, com facilidade para lidar com planilhas, controle de informações e relatórios no dia a dia. Venho me aprofundando em Excel e ferramentas de análise de dados, área pela qual tenho interesse crescente e pretendo seguir me especializando. Compartilho alguns dos meus projetos através das minhas redes abaixo:
+Estudante de Administração (4º semestre, Anhanguera), com atuação na área administrativa em rotinas de departamento pessoal, atendimento e suporte operacional. Tenho perfil organizado e atento a processos, com facilidade para lidar com planilhas, controle de informações e relatórios no dia a dia. Venho me aprofundando em Excel e ferramentas de análise de dados, área pela qual tenho interesse crescente e pretendo seguir me especializando. Compartilho alguns dos meus projetos através das minhas redes abaixo:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C3%ADcaro-bastos/">
